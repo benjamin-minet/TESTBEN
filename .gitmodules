@@ -1,0 +1,4 @@
+[submodule "benjamin-minet/moduletest"]
+	path = benjamin-minet/moduletest
+	url = git@github.com:benjamin-minet/moduletest.git
+	branch = master
